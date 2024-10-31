@@ -1,7 +1,5 @@
-# Data Scientist
-
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-
+# About me
+I received a B.Sc in Information and Communication Engineering from the Bangladesh University of Professionals (BUP) in the year 2020. He has worked as an Intern in the Product and Technology Division at bKash Limited. He is currently working as a Quality Control Specialist at SuperAnnotate AI, where he has been working with various companies, and their data to implement ML products for different sectors such as business, agriculture, healthcare, and LLM. His research interests include artificial intelligence, machine learning, big data, and IoT.
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
 - M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
@@ -23,7 +21,7 @@
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
