@@ -1,11 +1,13 @@
 # About me
 I received a B.Sc in Information and Communication Engineering from the Bangladesh University of Professionals (BUP) in the year 2020. He has worked as an Intern in the Product and Technology Division at bKash Limited. He is currently working as a Quality Control Specialist at SuperAnnotate AI, where he has been working with various companies, and their data to implement ML products for different sectors such as business, agriculture, healthcare, and LLM. His research interests include artificial intelligence, machine learning, big data, and IoT.
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
-## Work Experience
+### Education	
+**Bangladesh University of Professionals**		        		
+BS in Information and Communication Engineering | The University of Texas at Dallas (December 2020)
+**CGPA:** 3.75/4
+
+
+### Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
