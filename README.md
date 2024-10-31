@@ -8,9 +8,23 @@ I received a B.Sc in Information and Communication Engineering from the Banglade
 
 
 ### Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Quality Control Specialist @ Toyota Financial Services (_November 2022 - Present_)**
+-  Worked as the lead on projects for multiple international clients, like IBM and Wayve, and ensured greater than 90% accuracy.
+
+- Prepared budget reports for the clients using the platform analytics and MS tools.
+-Had a cross-cultural and efficient work experience collaborating with the Armenian team.
+- Simultaneously worked on different projects, embracing the best practices.
+- Provided training to the service providers from different parts of the world with the project instructions.
+- Maintained the data quality and production velocity meeting every deadline and reporting daily feedback.
+-  Implemented clients’ requirements by analyzing client-specific instructions collaboratively with the other team members.
+- Worked on maintaining communication through online meetings with Armenian colleagues. 
+- Prepared SoW (Statement of Work) after having the budget and services discussed with the clients and the service providers. 
+- Led a team of 6 Quality Control Associates in the high-priority project of Wayve helping them implement self-driving vehicles. 
+- Investigated production time taken for folders of data, so that time spent on production is congruent with the budget, with Platform Analytics and Insights.
+
+
+
+
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
