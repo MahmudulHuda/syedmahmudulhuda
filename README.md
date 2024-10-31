@@ -4,7 +4,7 @@ I received a B.Sc in Information and Communication Engineering from the Banglade
 ### Education	
 **Bangladesh University of Professionals**		        		
 - BS in Information and Communication Engineering | The University of Texas at Dallas (December 2020)
-**CGPA:** 3.75/4
+-**CGPA:** 3.75/4
 
 
 ### Work Experience
