@@ -1,5 +1,5 @@
 # About me
-I received a B.Sc in Information and Communication Engineering from the Bangladesh University of Professionals (BUP) in the year 2020. I have worked as an Intern in the Product and Technology Division at bKash Limited, and I am currently working as a Quality Control Specialist at SuperAnnotate AI, where I have been working with various companies, and their data to implement ML products for different sectors such as business, agriculture, healthcare, and LLM. His research interests include artificial intelligence, machine learning, big data, and IoT.
+I received a B.Sc in Information and Communication Engineering from the Bangladesh University of Professionals (BUP) in the year 2020. I have worked as an Intern in the Product and Technology Division at bKash Limited, and I am currently working as a Quality Control Specialist at SuperAnnotate AI, where I have been working with various companies, and their data to implement ML products for different sectors such as business, agriculture, healthcare, and LLM. My research interests include artificial intelligence, machine learning, big data, and IoT.
 
 ## Education	
 **Bangladesh University of Professionals**	     (December 2020)	        		
